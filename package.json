@@ -1,0 +1,23 @@
+{
+  "name": "vijay",
+  "version": "1.0.0",
+  "description": "this is simple",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mandar-Leo/vijay.git"
+  },
+  "author": "mandar chaudhari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mandar-Leo/vijay/issues"
+  },
+  "homepage": "https://github.com/Mandar-Leo/vijay#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
